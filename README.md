@@ -1,4 +1,4 @@
-# Backend API Documentation
+# Full-Stack Integration
 
 A RESTful API backend built with Node.js, Express.js, and MongoDB. This API provides user authentication and CRUD operations for users and posts.
 
